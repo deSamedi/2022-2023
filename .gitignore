@@ -1,0 +1,4 @@
+*.mkv
+*.zip
+/cmake-build-debug
+
